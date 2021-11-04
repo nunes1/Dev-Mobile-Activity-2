@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DevMobileAtividade2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Voltar</string>
+    <string name="login">Sim, fazer login</string>
+    <string name="register">Não, criar conta</string>
+    <string name="name">Nome</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="forgot_password">Esqueci a senha</string>
+    <string name="text_login">Digite seu usuário e senha para realizar login</string>
+    <string name="text_register">Preencha as informações a seguir para realizar o cadastro</string>
+    <string name="register_button">Criar conta</string>
+    <string name="login_button">Entrar</string>
+
+    <string name="hello_first_fragment">Olá, seja bem vindo\nVocê já possui uma conta?</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
